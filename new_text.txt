@@ -1,2 +1,0 @@
-Testing VIM for a second time.
-I'm creating a second line at the tracking stage.
